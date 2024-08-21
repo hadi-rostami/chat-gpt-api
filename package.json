@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "nodemon": "^3.1.4",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "gpt-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
